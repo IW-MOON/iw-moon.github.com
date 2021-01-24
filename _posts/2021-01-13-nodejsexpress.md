@@ -1,6 +1,7 @@
 ---
 title: Node.js(Express) 구조
-categories: []
+categories:
+- Project
 ---
 
 ### **Routes 구조**
