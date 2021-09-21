@@ -123,6 +123,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Portfolio"
+      icon: "fas fa-fw fa-link"
+      url: "https://carnation-plate-e55.notion.site/IW-MOON-e22ea8e99f3448fb9b849c36c1c61351"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -160,6 +163,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Portfolio"
+      icon: "fas fa-fw fa-link"
+      url: "https://carnation-plate-e55.notion.site/IW-MOON-e22ea8e99f3448fb9b849c36c1c61351"
 
 
 # Reading Files
